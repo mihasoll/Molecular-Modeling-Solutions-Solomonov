@@ -1,0 +1,12 @@
+MOPAC
+	Ubuntu: 23.1.2
+	conda: 23.2.5
+NWChem
+	Ubuntu: 7.3.0
+	conda: 7.2.0
+quantum espresso
+	Ubuntu: v.6.7MaX
+	conda: v.7.5
+xtb
+	Ubuntu: not found
+	conda: 6.7.1
