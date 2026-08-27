@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 test.py
+molecular-modeling/conda_environment/software_checks/
